@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Homework",
+  "description": "Infinity Homework - A highly advanced offline math solver and homework assistant app featuring custom interactive equation keyboard, powerful multi-step local math solver, beautiful live graphing calculator, and local scan simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
